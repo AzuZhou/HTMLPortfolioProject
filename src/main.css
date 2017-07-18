@@ -1,0 +1,55 @@
+body,
+.container {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+}
+
+.tagline,
+.skills {
+  background-color: white;
+  color: black;
+  font-family: 'Roboto', sans-serif;
+  height: 20%;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.header {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  background-color: red;
+  color: white;
+  padding: 1px;
+}
+
+h1 {
+  font-size: 130px;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+p {
+  font-size: 18px;
+}
+
+.contact {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding: 30px;
+}
+
+a {
+  color: white;
+}
